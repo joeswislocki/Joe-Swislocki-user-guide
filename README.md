@@ -60,4 +60,7 @@ I like Kim Scott’s radical candor framework. Radical candor is about caring pe
 
 Beyond radical candor, I’m researching ideas and viewpoints on feedback. Most recently, I listened to a Management 3.0 podcast episode, [Why Feedback is the Most Toxic Barrier to Human Growth](https://management30.com/podcast/why-feedback-is-the-most-toxic-barrier-to-human-growth/). The episode made me think hard about my approach to feedback. Carol Sanford believes feedback is the most toxic practice to human growth and to democracy and education. She explains why we need to look inwards in order to grow instead of basing feedback on what others say. “People wake up and come alive when they’re in charge of their own growth and behaviour change.” I’m in the process of digesting the content and looking to see what it could look like to take the best from each framework.
 
+### Feedback from you to me
+I expect you to reciprocate and provide me with radical candor. I’m learning to be a better leader every day. I will improve my self-awareness and leadership if you are open and honest about my performance. Your candor will make me a better person and in return make your life a lot better.
+
 
