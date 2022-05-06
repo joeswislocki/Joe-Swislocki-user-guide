@@ -83,6 +83,11 @@ Examples:
 ### On micromanagement 
 I do not prefer the word manager. I’m not here to control and tell you what to do. Furthermore, I do not micromanage. I start with trust, provide context, and extend autonomy. People aren’t motivated by being told what to do and how to solve problems. Daniel Pink shares a [study about what truly motivates people](https://www.youtube.com/watch?v=1SfmmuC9IWs). Common to the agile world, you may already be aware of his research on autonomy, mastery, and purpose. My focus is on creating a safe and inclusive environment to inspire and motivate experimentation leading to innovative solutions.
 
+### Me as a Coach to You
+I can help you connect with the right people based on your needs.  
+In addition, I can provide you with leadership guidance. 
+Please talk to me about any situation that can be impacting your focus or dealing with people. 
+If there is a people problem, I expect you to address the issue directly with that person first. However, I can provide you with guidance on how to deal with the problem prior to addressing the  issue.
 
 
 
