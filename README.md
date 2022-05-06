@@ -33,3 +33,25 @@ My time with you is extremely important. If you have an idea or issue and would 
 I don’t expect you to respond to everything in ‘real-time’. 
 In fact, if you are in deep thought experiencing flow, or need a specific time frame to focus, please make me aware and I won’t bother you. Lastly, please be cognizant of what you write in Slack or company communication tools as the content can be subpoenaed.
 
+### 1:1s
+The 1:1 time provides us with an opportunity to develop a positive and trusting relationship. I would like to address your topics and needs first, encouraging you to take responsibility for setting the agenda. I’m accountable for ensuring your needs are met and sharing topics as well. Please keep task updates for our Scrum ceremonies, Slack, and JIRA. We can discuss task updates anytime during the week. The goal of the 1:1 is to make them meaningful and valuable by focusing on your growth and needs.
+
+People like spending time in 1:1 conversations about: 
+- Goal Setting 
+- Goal Review 
+- Performance feedback 
+- Problem-solving 
+- Soliciting specific support 
+
+In our first 1:1, I will ask you what you need and want. I like to start with the following questions.
+- How often would you like to meet with me one-on-one?  
+- How long would you like those meetings to last? 
+- How should we set the agenda? 
+- What topics of conversation are most important and urgent for you? 
+- What topics of conversation are highly important but less urgent and how do we make sure we get to these topics at the right frequency? 
+
+We will keep track of our topics in a Google Doc and recap items discussed with any actions. The doc will help us make updates and share thoughts in real-time to prepare and reference prior topics. The doc can be accessed in the meeting invitation or in Slack (pinned in our conversation thread). Lastly, I will pause my Slack notifications and any other technology to provide you with my full attention. Please try to eliminate distractions on your end.
+
+
+
+
