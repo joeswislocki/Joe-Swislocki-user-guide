@@ -63,4 +63,14 @@ Beyond radical candor, I’m researching ideas and viewpoints on feedback. Most 
 ### Feedback from you to me
 I expect you to reciprocate and provide me with radical candor. I’m learning to be a better leader every day. I will improve my self-awareness and leadership if you are open and honest about my performance. Your candor will make me a better person and in return make your life a lot better.
 
+### Building Relationships with Others and Business Knowledge
+Building a strong relationship and meeting your needs is my top priority. Additionally, building relationships with others is critical as you have an opportunity to build rapport and trust with the team. Our team lives in different regions of the country. A small majority of us may only be able to connect in person. I provide recommendations below that can apply to any context. Please consider the [COVID Workplace Guide](https://www.cdc.gov/coronavirus/2019-ncov/community/workplaces-businesses/index.html) when meeting in person at the office.
+- Meet and collaborate with people beyond our team - become curious about what other people are doing. Take the initiative to set up a zoom meeting. Setting up a virtual coffee may be a good first step
+- Ask people to lunch, coffee, dinner, etc..
+- Ask lots of questions and listen intently
+
+Moreover, learn as much as you can about the company. Figure out what you need to learn, whom to learn it from, and how to speed up your learning process. Understand the history of the organization, ask “How did we get to this point?” Learn about the company’s roles, responsibilities, and how decisions are made. Talk to people with different points of view. It will deepen your insight. Building strong relationships and business knowledge will accelerate your learning and onboarding.
+
+
+
 
