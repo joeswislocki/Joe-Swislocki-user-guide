@@ -89,5 +89,8 @@ In addition, I can provide you with leadership guidance.
 Please talk to me about any situation that can be impacting your focus or dealing with people. 
 If there is a people problem, I expect you to address the issue directly with that person first. However, I can provide you with guidance on how to deal with the problem prior to addressing the  issue.
 
+### Leading Others
+My goal is to inspire everyone to be a leader. Leadership isn’t about titles, corner offices, direct reports, and fancy shoes. It’s about serving others. I will lead by example, and provide guidance and  training. You can make a positive impact on others. 
+
 
 
