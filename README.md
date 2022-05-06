@@ -71,6 +71,16 @@ Building a strong relationship and meeting your needs is my top priority. Additi
 
 Moreover, learn as much as you can about the company. Figure out what you need to learn, whom to learn it from, and how to speed up your learning process. Understand the history of the organization, ask “How did we get to this point?” Learn about the company’s roles, responsibilities, and how decisions are made. Talk to people with different points of view. It will deepen your insight. Building strong relationships and business knowledge will accelerate your learning and onboarding.
 
+### Tracking Progress
+We utilize our Scrum Ceremonies and JIRA for tracking work progress. I should be able to understand your progress by reviewing the sprint board. Please report any blockers, issues, or impediments that may occur during your task so I’m aware and offer appropriate facilitation.  
+In addition, let me know when we are exceeding our sprint goals. I will circle back with the product owners to confirm the next highest priority and make it ready for the sprint. 
+
+Examples:  
+- Blocker - additional time needed with a product owner to align on requirements.
+- Testing - a feature needs additional testing, please connect with the QE team.
+- Sprint Goals - share progress towards a goal and identify any blockers or new learnings.
+
+
 
 
 
