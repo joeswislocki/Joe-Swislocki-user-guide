@@ -100,4 +100,6 @@ I’m inspired by futurist [John Hagel](https://www.johnhagel.com/) and his thou
 
 What can we do to learn faster and focus on the things that matter most to our development? I’ve applied the concept of learning agility. Learning agility enables you to focus on the things that you’re most passionate about (people tend to learn faster), and creates agility to handle changing environments/trends. Think of a company that is continuously learning. As a whole, the company becomes more agile and can adapt to the environment faster. Learning agility makes innovation possible and perpetuates a company’s growth.
 
+### Contribution to Strategy
+You have unique perspectives, expertise, and ideas. I encourage you to be a rainmaker. Look for opportunities beyond your role or function that can impact the business. I recommend listening to the following Coaching for Leaders podcast episode to learn more about [moving from caretaker to rainmaker](https://coachingforleaders.com/podcast/390/). 
 
