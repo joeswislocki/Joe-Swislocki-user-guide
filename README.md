@@ -92,5 +92,12 @@ If there is a people problem, I expect you to address the issue directly with th
 ### Leading Others
 My goal is to inspire everyone to be a leader. Leadership isn’t about titles, corner offices, direct reports, and fancy shoes. It’s about serving others. I will lead by example, and provide guidance and  training. You can make a positive impact on others. 
 
+### Learning and Development 
+I’m passionate about learning and consider myself an infinite learner (lifelong). I embrace it to live a fulfilling life. Learning includes all aspects of life, think of your whole self.
+
+I’m inspired by futurist [John Hagel](https://www.johnhagel.com/) and his thoughts captured below on learning from this [Future of Work podcast episode](https://thefutureorganization.com/everyone-needs-know-future-work/)... 
+“Increasingly now in a world that’s shaped by these technologies and where the half-life of a skill is  getting shorter and shorter, as individuals we need to start with the awareness that whatever we know  today is becoming obsolete at an accelerating rate. So we have to learn faster. And we can’t just sit back on the credentials we had or the experience we’ve had in the past, but we need to be constantly  looking for new opportunities to get better faster at whatever area that we are most interested in.”
+
+What can we do to learn faster and focus on the things that matter most to our development? I’ve applied the concept of learning agility. Learning agility enables you to focus on the things that you’re most passionate about (people tend to learn faster), and creates agility to handle changing environments/trends. Think of a company that is continuously learning. As a whole, the company becomes more agile and can adapt to the environment faster. Learning agility makes innovation possible and perpetuates a company’s growth.
 
 
