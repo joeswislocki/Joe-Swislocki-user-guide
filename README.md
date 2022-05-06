@@ -103,3 +103,12 @@ What can we do to learn faster and focus on the things that matter most to our d
 ### Contribution to Strategy
 You have unique perspectives, expertise, and ideas. I encourage you to be a rainmaker. Look for opportunities beyond your role or function that can impact the business. I recommend listening to the following Coaching for Leaders podcast episode to learn more about [moving from caretaker to rainmaker](https://coachingforleaders.com/podcast/390/). 
 
+### Logistics
+I keep my Google calendar current and expect the same from you.  
+Please update your calendar to reflect vacation, meetings, training/conferences, or events. Please notify me as early as possible for extended time off, i.e. vacation.
+
+I do not expect you to work on your vacation, work extra hours, or work on weekends. I prefer that you recharge. The goal is people sustainability and not burnout. We need to sustain a pace for the long term (infinite game). However, I understand if there is a special circumstance like a system outage. I will support you. 
+
+I will not send you emails about work or tasks on the weekend and will not respond to your emails until Monday.  If there is an emergency, please send me a text message. 
+
+Lastly, please be punctual to meetings. Respect everyone’s time. 
