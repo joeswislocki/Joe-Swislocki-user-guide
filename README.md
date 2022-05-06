@@ -112,3 +112,13 @@ I do not expect you to work on your vacation, work extra hours, or work on weeke
 I will not send you emails about work or tasks on the weekend and will not respond to your emails until Monday.  If there is an emergency, please send me a text message. 
 
 Lastly, please be punctual to meetings. Respect everyone’s time. 
+
+---
+
+## Extras: Advice and questions I use as good reminders and self-reflection:
+### Advice:
+- Respect people. It doesn’t matter what their job title is, family name, beliefs, and perspectives. Be curious and ask questions. Look to understand their story. If meeting someone for the first time, don’t start with, “What do you do?” By asking this question, we assume a person’s life is defined by their career. There’s more to a person. Ask them, “What’s your story?”, listen carefully and ask more questions.
+- Make [celebration](https://hbr.org/2022/01/celebrate-to-win) a part of your routine. Celebration is an important opportunity to cement the lessons learned on the path to achievement and to strengthen the relationships between people that make future achievement more plausible. 
+- Be better every day.
+- It’s ok if you don’t know something, speak up and ask for help.
+
