@@ -52,6 +52,12 @@ In our first 1:1, I will ask you what you need and want. I like to start with th
 
 We will keep track of our topics in a Google Doc and recap items discussed with any actions. The doc will help us make updates and share thoughts in real-time to prepare and reference prior topics. The doc can be accessed in the meeting invitation or in Slack (pinned in our conversation thread). Lastly, I will pause my Slack notifications and any other technology to provide you with my full attention. Please try to eliminate distractions on your end.
 
+### Feedback from me to you 
+My goal is to provide you with real-time candid feedback. I believe real-time feedback makes a  greater impact than waiting later, or for the “right time”. 
+Providing you with candid feedback will help you grow and build a trusting relationship. It will enable you to feel more comfortable giving me feedback. 
 
+I like Kim Scott’s radical candor framework. Radical candor is about caring personally and challenging directly. Kim provides [great learning material on her site](https://www.radicalcandor.com/).
+
+Beyond radical candor, I’m researching ideas and viewpoints on feedback. Most recently, I listened to a Management 3.0 podcast episode, [Why Feedback is the Most Toxic Barrier to Human Growth](https://management30.com/podcast/why-feedback-is-the-most-toxic-barrier-to-human-growth/). The episode made me think hard about my approach to feedback. Carol Sanford believes feedback is the most toxic practice to human growth and to democracy and education. She explains why we need to look inwards in order to grow instead of basing feedback on what others say. “People wake up and come alive when they’re in charge of their own growth and behaviour change.” I’m in the process of digesting the content and looking to see what it could look like to take the best from each framework.
 
 
