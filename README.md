@@ -12,3 +12,24 @@ Most recently, I read [The Infinite Game](https://simonsinek.com/the-infinite-ga
 
 ### People are Human Beings, not Resources
 What is a company? People serving people serving people. I’m very passionate about treating people as people. A diverse, inclusive, inspired, innovative, and performing team does not exist without people. People have ideas, emotions, beliefs, and hearts. People get things done. Creating a diverse, inclusive, and safe experience, it’s about encouraging and supporting people to bring their whole selves to work. You may have heard, “People are a company’s most important asset.” I believe people and their relationships are more important than just people to perpetuate long-term growth. I also don’t like the word asset as it can imply people are owned and managed like resources. Leadership expert, Tom Peters sums it up and shares his raw emotion about the topic in this [short 3-minute video](https://vimeo.com/347311842). I will not call you a resource. I respect you as a human being. I will use the word resource when referring to things like a book, software, a link to a Google Doc, and cool Shure audio equipment.
+
+### Communication
+Communication is critical for building our trusting relationship. 
+I give trust, however, I recognize that I must earn yours. 
+I prefer to talk face to face when possible given the appropriate context (video call when working remotely or in-office ), and understanding the situation with COVID and our distributed remote locations. I believe talking face to face provides a better opportunity to foster a meaningful relationship beyond surface level. You cannot see the delivery of words via text, Slack, or email. I learn more about you by observing your facial expressions, tone, and body language. 
+
+However, I understand that not all communication can be face-to-face. 
+There are moments when other forms of communication are more appropriate. Forms of communication; Call, Text, Slack, JIRA, and Email. 
+
+For examples of communication, we can discuss what works best and hold each other accountable:
+- Utilize text and/or Slack if you are dealing with a family emergency, sick, “running late” to work, late to a meeting, or lunch takes longer than expected. I will reply to your message with a confirmation and share the message with the team.
+- Utilize Slack for quick Q/A, team communication, announcements, and sharing knowledge.
+- Utilize JIRA to communicate ticket updates, and strategy, creating alignment among agile team members and product owners.
+
+If I’m on vacation and there’s an urgent matter and you cannot connect with the escalation team, please text me. An urgent matter would include a major system failure. 
+
+My time with you is extremely important. If you have an idea or issue and would like to discuss it,  please set up a time on my calendar or create a topic item for our next 1:1. If an issue needs to be addressed in ‘real-time’ please send a direct Slack DM. I will make myself available for your needs.
+
+I don’t expect you to respond to everything in ‘real-time’. 
+In fact, if you are in deep thought experiencing flow, or need a specific time frame to focus, please make me aware and I won’t bother you. Lastly, please be cognizant of what you write in Slack or company communication tools as the content can be subpoenaed.
+
