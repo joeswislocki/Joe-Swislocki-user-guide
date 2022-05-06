@@ -80,6 +80,8 @@ Examples:
 - Testing - a feature needs additional testing, please connect with the QE team.
 - Sprint Goals - share progress towards a goal and identify any blockers or new learnings.
 
+### On micromanagement 
+I do not prefer the word manager. I’m not here to control and tell you what to do. Furthermore, I do not micromanage. I start with trust, provide context, and extend autonomy. People aren’t motivated by being told what to do and how to solve problems. Daniel Pink shares a [study about what truly motivates people](https://www.youtube.com/watch?v=1SfmmuC9IWs). Common to the agile world, you may already be aware of his research on autonomy, mastery, and purpose. My focus is on creating a safe and inclusive environment to inspire and motivate experimentation leading to innovative solutions.
 
 
 
