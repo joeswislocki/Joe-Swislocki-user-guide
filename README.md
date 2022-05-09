@@ -115,10 +115,30 @@ Lastly, please be punctual to meetings. Respect everyone’s time.
 
 ---
 
-## Extras: Advice and questions I use as good reminders and self-reflection:
-### Advice:
+## Extras: Advice and questions I use as good reminders and self-reflection
+### Advice
 - Respect people. It doesn’t matter what their job title is, family name, beliefs, and perspectives. Be curious and ask questions. Look to understand their story. If meeting someone for the first time, don’t start with, “What do you do?” By asking this question, we assume a person’s life is defined by their career. There’s more to a person. Ask them, “What’s your story?”, listen carefully and ask more questions.
 - Make [celebration](https://hbr.org/2022/01/celebrate-to-win) a part of your routine. Celebration is an important opportunity to cement the lessons learned on the path to achievement and to strengthen the relationships between people that make future achievement more plausible. 
 - Be better every day.
 - It’s ok if you don’t know something, speak up and ask for help.
+
+### Questions
+“How might I show up with my best energy at work so I can be more impactful?”
+
+“What might I simplify so this is easier for others to understand?”
+
+“How might I focus on what’s moving the needle to more effectively drive the outcomes we desire?”
+
+“What is it going to take to succeed?”
+
+“What is the impact and how are we going to measure it?”
+
+Premortem questions (these questions help identify potential risks upfront vs in a postmortem):
+- “How is this project going to fail?”
+- “What are the risks involved that can lead to this project failing?"
+- “How can we mitigate the risk?”
+- “What are we going to need to be successful?"
+- “How might I be wrong?”
+
+
 
