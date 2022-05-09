@@ -140,5 +140,17 @@ Premortem questions (these questions help identify potential risks upfront vs in
 - “What are we going to need to be successful?"
 - “How might I be wrong?”
 
+### Recommended Podcasts
+- [Engineering Advice You Didn't Ask For](https://anchor.fm/engineeringadvice/episodes/S01-E07---Why-didnt-you-get-that-promotion-e1i1fft) 
+- [Coaching for Leaders](https://coachingforleaders.com/)
+- [The Modern Manager](https://themodernmanager.com/)
+- [A Bit of Optimism](https://simonsinek.com/podcast)
+- [The Future of Work](https://thefutureorganization.com/future-work-podcast/)
+- [How to be Awesome at Your Job](https://awesomeatyourjob.com/podcast/)
+- [Happiness at Work](https://management30.com/podcast/)
+- [Lead from the Heart](https://markccrowley.com/podcasts/)
+- [Masters of Scale](https://mastersofscale.com/)
+- [Truly Human Leadership](https://www.barrywehmiller.com/blog/podcasts)
+- [How I Built This](https://www.npr.org/series/490248027/how-i-built-this)
 
 
